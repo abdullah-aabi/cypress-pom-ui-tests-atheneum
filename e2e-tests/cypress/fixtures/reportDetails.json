@@ -1,0 +1,15 @@
+{
+    "updateHonorariumAmount": "557",
+    "updateFeeAmountField": "800",
+    "feeType": "Base fee",
+    "generalFeeAdjustmentAmount" : "300",
+    "entryTypesFeeUnallocated" : "fee-unallocated",
+    "entryTypesFeeAllocated": "fee-allocated",
+    "entryTypesInvoice": "invoice",
+    "entryTypesAdjustmentGeneral": "adjustment-general",
+    "generalfeesTypeAll": "ALL",
+    "generalfeesTypeBundle": "BUNDLE",
+    "generalfeesTypeClientCharge": "CLIENT_CHARGE",
+    "generalfeesTypeCost": "COST"
+  }
+  

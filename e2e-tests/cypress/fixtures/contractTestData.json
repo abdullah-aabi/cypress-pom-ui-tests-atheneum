@@ -1,0 +1,20 @@
+{
+    "atheneumContractParty": "Atheneum Partners GmbH",
+    "contractCoverage": "specific projects",
+    "contractCoverageForAccountLevel": "specific accounts",
+    "contractType": "PAYG",
+    "contractTypeStatus": "Final",
+    "contractTypeAsNonPAYG": "Package",
+    "pricerangefromPAYG": 300,
+    "pricerangetoPAYG": 400,
+    "updatedPricerangefromPAYG": 500,
+    "updatedPricerangetoPAYG": 600,
+    "currency": "EUR",
+    "updatedCurrency": "USD",
+    "creditsForNonPAYG": 100,
+    "updatedCreditsForNonPAYG": 200,
+    "creditValue": 600,
+    "titleForNonEditableFee": "You can't edit fee since applicable contract is credit based",
+    "deleteContractMessage": "Contract successfully deleted."
+  }
+  

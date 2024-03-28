@@ -1,0 +1,30 @@
+{
+    "contractId": "",
+    "expertId": 1049,
+    "projectId": 106,
+    "expertProjectLinkId": 131,
+    "deliverableAttach": "new",
+    "deliveredBy": 1004,
+    "deliverable": {
+      "deliverableTypeId": 1
+    },
+    "deliveryDate": "2022-11-15",
+    "consultationDuration": 60,
+    "attachments": [],
+    "feeItems": [
+      {
+        "value": "400",
+        "currencyId": 1,
+        "feeTypeId": 1,
+        "credits": "40"
+      },
+      {
+        "value": 357,
+        "currencyId": 1,
+        "costTypeId": 1,
+        "isBillableToClient": false,
+        "note": ""
+      }
+    ],
+    "employees": []
+  }

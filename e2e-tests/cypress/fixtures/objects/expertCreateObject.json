@@ -1,0 +1,75 @@
+{
+  "title": "Mr.",
+  "firstName": "",
+  "lastName": "",
+  "originalName": "",
+  "address": {
+    "city": "Berlin",
+    "state": "Berlin",
+    "countryId": 77,
+    "timezoneId": 132,
+    "phones": [{ "phoneTypeId": 2, "phoneNum": "+49123456" }],
+    "emails": [],
+    "postalCode": ""
+  },
+  "email": "",
+  "links": [],
+  "expert": {
+    "subIndustries": [
+      {
+        "id": 35,
+        "type": "subIndustry",
+        "name": "Automobiles",
+        "industryId": 1,
+        "className": "select-child"
+      }
+    ],
+    "industryExpertise": "<p>Expertise in Automobile and QA Automation</p>",
+    "expertIndustryExperience": " ",
+    "hourlyRateCurrencyId": 1,
+    "hourlyRate": 357,
+    "newsletter": false,
+    "sendSmsReminders": false
+  },
+  "languages": [
+    {
+      "id": 22,
+      "name": "German",
+      "languageToUser": { "languageId": 22, "languageProficiencyId": 3 }
+    }
+  ],
+  "tags": [],
+  "experiences": [
+    {
+      "position": "Head of Purchasing",
+      "company": "Atheneum",
+      "location": "Berlin, Germany",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "current": true,
+      "description": ""
+    },
+    {
+      "position": "Director Purchasing",
+      "company": "Universal Regulatory inc",
+      "location": "Berlin, Germany",
+      "startDate": "2018-01-01",
+      "endDate": "2020-12-01",
+      "current": false,
+      "description": ""
+    },
+    {
+      "position": "Global Account Director",
+      "company": "Steadfast Group Limited",
+      "location": "Bern, Switzerland",
+      "startDate": "2015-01-01",
+      "endDate": "2018-01-01",
+      "current": false,
+      "description": ""
+    }
+  ],
+  "phoneTypeId": null,
+  "phoneNum": "",
+  "undefined": 1,
+  "subIndustries": [{ "subindustryId": 35, "name": "Automobiles" }]
+}

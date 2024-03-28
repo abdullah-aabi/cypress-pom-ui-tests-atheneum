@@ -1,0 +1,54 @@
+{"availabilities":
+    [
+        {
+            "type":"client",
+            "raw":
+            {
+                "group":[1130375,1130376]
+            },
+            "id":"",
+            "time":
+             {
+                "start":1,
+                "end":1
+            },
+            "timezone":""
+        },
+        {
+            "type":"expert",
+            "raw":
+            {
+                "group":[1346166,1346167]
+            },
+            "id":"",
+            "time":
+            {
+                "start":1,
+                "end":1
+            },
+            "timezone":""
+        },
+        {
+            "type":"client",
+            "id":"",
+            "time":
+            {"start": 1,
+                "end": 1
+            },
+            "raw":{"group":[]}
+        },
+        {
+            "type":"expert",
+            "id":"",
+            "time":
+            {"start": 1,
+            "end": 1
+            },
+            "raw":{"group":[]}
+        }
+    ],
+    "drafts":[],
+    "timeslots":[],
+    "eplId":1,
+    "lockInterviewDuration":false
+}

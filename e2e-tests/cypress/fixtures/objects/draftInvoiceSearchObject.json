@@ -1,0 +1,12 @@
+{
+    "type": "drafted",
+    "page": 1,
+    "limit": 20,
+    "invoicingEntity": "",
+    "invoiceNo": "",
+    "parentAccount": "",
+    "account": "",
+    "invoiceStatus": "",
+    "startDate": "",
+    "endDate": ""
+}

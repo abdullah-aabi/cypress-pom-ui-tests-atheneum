@@ -1,0 +1,23 @@
+{ 
+    "parentAccountType": "Corporation",
+    "updatedParentAccountType": "Consultancy Firm",
+    "operationalGuidelineForParentAccount": "Operational Guideline",
+    "disclaimerCommentForParentAccount": "Disclaimer Comment",
+    "updatedOperationalGuidelineForParentAccount": "Operational Guideline updated",
+    "updatedDisclaimerCommentForParentAccount": "Disclaimer Comment updated",
+    "country": "Germany",
+    "updatedCountry": "China",
+    "atheneumCompany": "Berlin",
+    "updatedAtheneumCompany": "Shanghai",
+    "atheneumContact": "Test AccountManager",
+    "updatedAtheneumContact" : "Test TeamLeader",
+    "operationalGuidelineForAccount": "Operational Guidelines for Account",
+    "updatedOperationalGuidelineForAccount": "Operational Guidelines for Account Updated",
+    "cityWithCountry": "Berlin, Germany",
+    "updatedcityWithCountry": "Munich, Germany",
+    "clientCity": "Berlin",
+    "updatedClientCity" : "Munich",
+    "updatedState": "Bavaria",
+    "timezone": "Europe/Berlin",
+    "clientContactTitle": "Mr."
+}

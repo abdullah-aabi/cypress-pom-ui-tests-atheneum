@@ -1,0 +1,10 @@
+{
+  "parentAccountId": 1,
+  "companyName": "",
+  "countryId": 77,
+  "atheneumOfficeId": 1,
+  "keyContactId": 1,
+  "operationalGuidelines": "<p></p>",
+  "invoicingEntities": [{}],
+  "externalComplianceRequired":false
+}

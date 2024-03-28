@@ -1,0 +1,31 @@
+{
+    "title": "Ms.",
+    "firstName": " ",
+    "lastName": " ",
+    "address": {
+      "phones": [{ "phoneTypeId": 2, "phoneNum": "+49123456780" }],
+      "emails": []
+    },
+    "email": " ",
+    "employee": {
+      "atheneumOfficeId": 1,
+      "rydooPayrollEntityId": 1,
+      "expertize": "",
+      "newHireUntil":"2025-02-28"
+    },
+    "currentPosition": {
+      "employeePositionId": 2,
+      "positionDescription": "Team Lead",
+      "hourlyRate": 0,
+      "currencyId": 1,
+      "targetMargin":10
+    },
+    "languages": [
+      {
+        "id": 15,
+        "name": "English",
+        "languageToUser": { "languageId": 15, "languageProficiencyId": 3 }
+      }
+    ],
+    "permissions": [1, 6, 11, 16]
+  }

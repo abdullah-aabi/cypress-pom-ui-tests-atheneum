@@ -1,0 +1,22 @@
+{
+  "expertProjectLinks": [
+    {
+      "expertId": 1,
+      "cvId": 1,
+      "experienceId": 1,
+      "projectId": 1,
+      "segment": {
+        "id": 1
+      },
+      "replyStatusId": null
+    }
+  ],
+  "templateData": {
+    "subject": "Atheneum Consultation Opportunity - {{projectName}}",
+    "content": "\n<p>\n  Hi {{expert.firstName}},\n</p>\n<p>\n  I’m reaching out with a compensated consulting opportunity with Atheneum.\n</p>\n<p>\n  We are working on a project for a client who is looking at QAU1605534551 Expert Sessions project. In connection with this, our client is trying to gain a better understanding of Entire details of machinary\n</p>\n<p>\n  Given your professional background, I’m confident that you are well-positioned to speak effectively to our client’s interests.\n</p>\n<p>\n  The discussion is a two-way 60-minute phone conversation, so you’ll also be able to ask questions and learn more about the developments in this space and would require no prior preparation on your part.\n</p>\n<p>\n  We are happy to provide an hourly honorarium for your valued time.\n</p>\n<p>\n  Please follow the secure link below to review the project scope and confirm your availability for the consultation.\n</p>\n  <a href=\"{{applyLinkHref}}\" title=\"Review the consultation with Atheneum\">Review the consultation with Atheneum</a>\n<p>\n  Alternatively, you can reply to this email or call me to discuss the details.\n</p>\n<p>\n  Please note that this project is time-sensitive, so we would need to speak soon to schedule a call.\n</p>\n<p>\n  Kind regards,\n</p>\n",
+    "to": [],
+    "cc": [],
+    "senderId": 1,
+    "templateName": "[EN] expert_invite"
+  }
+}

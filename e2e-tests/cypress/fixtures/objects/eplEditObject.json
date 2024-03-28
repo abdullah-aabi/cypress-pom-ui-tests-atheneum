@@ -1,0 +1,18 @@
+{
+  "industryExpertise": "",
+  "screening": "<p>teste</p>",
+  "relevantExperienceId": 1796687,
+  "overwriteExpertIndustryExpertise": false,
+  "honorariumCurrencyId": 1,
+  "honorarium": 357,
+  "free": false,
+  "feeCurrencyId": null,
+  "fee": null,
+  "credits": null,
+  "pricingId": 1,
+  "expertAvailability": "<p>teste</p>",
+  "hiddenExperienceIds": [],
+  "cvId": 1,
+  "fieldsHiddenToExpert": "[]",
+  "experiencesHiddenToExpert": "{}"
+}

@@ -1,0 +1,21 @@
+{
+    "currency": "EUR",
+    "feeType": "Base fee",
+    "delieverable": "ES - Conference Call",
+    "atheneumOffice": "Berlin",
+    "VAT": "0",
+    "caseCode": "A1",
+    "createdIvoiceStatus": "Draft",
+    "invoiceType": "PAYG",
+    "updatedAtheneumOffice": "London",
+    "updatedVAT": "1",
+    "updatedCaseCode": "A2",
+    "approvedInvoiceStatus": "Approved",
+    "disapproveReason": "Disapprove invoice",
+    "waitingForApprovalStatus": "Waiting for approval ",
+    "messageOnDelete": "Fees associated with this invoice will be unallocated and available for allocation to another invoice.",
+    "deleteConfirmationMessage": "You have successfully deleted invoice.",
+    "noInvoiceMessage": "Invoice for this project was not created yet.",
+    "creditNoteComment": "Credit note comment added"
+  }
+  

@@ -1,0 +1,26 @@
+{
+    "availabilities": [],
+    "drafts": [],
+    "timeslots": [
+        {
+            "duration": 60,
+            "id": "",
+            "time": {
+                "start": 1,
+                "end": 1
+            },
+            "drafts": []
+        }
+    ],
+    "eplId": 1,
+    "lockInterviewDuration": false,
+    "sendSmsToPhoneNumberIds": [],
+    "expertPhoneNumbers": [],
+    "sendSmsExpertPhoneNumber": null,
+    "message": {
+        "subjectExpert": "",
+        "subjectClient": "",
+        "expertEmail": "",
+        "clientMail": ""
+    }
+}

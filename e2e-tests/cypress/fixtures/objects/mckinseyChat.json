@@ -1,0 +1,27 @@
+{
+  "project_id": "1",
+  "workstream_id": "1",
+  "expert_id": "1",
+  "inserted_at": "2021-08-06",
+  "source": "client",
+  "from_email": "qa-automation@test.com",
+  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ipsum leo, elementum vel turpis at, ullamcorper aliquet quam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris eget auctor dui. Nunc sit amet justo et tortor fringilla feugiat. Curabitur nisi orci, congue et sapien in, feugiat gravida sem. Sed pretium fringilla eleifend. Curabitur tincidunt et quam eget rhoncus. Curabitur eget tortor hendrerit tortor luctus elementum ac eget arcu. Donec sodales laoreet neque, in finibus arcu dapibus in. Vestibulum pharetra consequat ex sed tempus. In sollicitudin enim a pellentesque condimentum. Vivamus eget risus euismod, consequat dui nec, varius turpis.",
+  "attachments": [
+    {
+      "filename": "qafile.txt",
+      "url": "https://www.ncaa.org/sites/default/files/Open%2Ba%2BTXT%2Bdocument%2Bin%2BWord.pdf"
+    },
+    {
+      "filename": "qafile1.pdf",
+      "url": "https://www.ncaa.org/sites/default/files/Open%2Ba%2BTXT%2Bdocument%2Bin%2BWord.pdf"
+    },
+    {
+      "filename": "qafile2.docx",
+      "url": "https://www.ncaa.org/sites/default/files/Open%2Ba%2BTXT%2Bdocument%2Bin%2BWord.pdf"
+    },
+    {
+      "filename": "qafile3.xls",
+      "url": "https://www.ncaa.org/sites/default/files/Open%2Ba%2BTXT%2Bdocument%2Bin%2BWord.pdf"
+    }
+  ]
+}

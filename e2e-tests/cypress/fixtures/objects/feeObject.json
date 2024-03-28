@@ -1,0 +1,28 @@
+{
+  "expertId": 620668,
+  "projectId": 49400,
+  "expertProjectLinkId": 1289228,
+  "deliverableAttach": "new",
+  "deliveredBy": 620648,
+  "deliverable": {
+    "deliverableTypeId": 1
+  },
+  "deliveryDate": "2021-04-07",
+  "consultationDuration": 60,
+  "attachments": [],
+  "feeItems": [
+    {
+      "value": "600",
+      "currencyId": 1,
+      "feeTypeId": 1
+    },
+    {
+      "value": 357,
+      "currencyId": 1,
+      "costTypeId": 1,
+      "isBillableToClient": false,
+      "note": ""
+    }
+  ],
+  "employees": []
+}

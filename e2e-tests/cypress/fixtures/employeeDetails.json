@@ -1,0 +1,27 @@
+{
+  "principal": {
+    "title": "Mr.",
+    "atheneumOffice": "Berlin",
+    "employeePosition": "Principal",
+    "positionDescription": "Main test Principal",
+    "currency": "EUR",
+    "hourlyRate": "0",
+    "targetMargin": "1",
+    "rydooPayrollEntity": "Berlin",
+    "phoneType": "mobile",
+    "phoneNum": "+49123456789",
+    "languages": [
+      {
+        "name": "English",
+        "languageProficiency": "Full"
+      }
+    ],
+    "hireUntil": "Dec"
+  },
+  "editPrincipal": {
+    "positionDescription": "Main test Principal edited"
+  },
+  "employeeTitle": "Create employee",
+  "editTitle": "Edit employee",
+  "employeeName": "Test Principal"
+}

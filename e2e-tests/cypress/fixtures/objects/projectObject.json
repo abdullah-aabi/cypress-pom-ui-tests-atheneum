@@ -1,0 +1,78 @@
+{
+  "officeId": 1,
+  "office": {
+    "id": 1,
+    "officeName": "",
+    "account": {
+      "id": 1,
+      "companyName": "",
+      "parentAccountId": 1
+    },
+    "accountId": 1
+  },
+  "clients": [
+    {
+      "id": 1,
+      "fullName": "",
+      "office": {
+        "id": 1,
+        "oldNid": null,
+        "officeName": "",
+        "accountId": 1,
+        "parentAccountId": 1,
+        "addressId": 1,
+        "placeholder": false,
+        "updatedBy": 1,
+        "created_at": "",
+        "updated_at": ""
+      }
+    }
+  ],
+  "caseCode": "",
+  "clientAvailabilities": "",
+  "languages": [],
+  "projectName": "",
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "",
+      "active": true,
+      "positionId": 1,
+      "employeeToProject": {
+        "units": 0,
+        "employeeId": 1
+      }
+    }
+  ],
+  "bdContactId": null,
+  "projectTypeId": 1,
+  "inProposal": false,
+  "sendComplianceReminders": false,
+  "subIndustryId": 34,
+  "subIndustry": {
+    "id": 34,
+    "type": "subIndustry",
+    "name": "Auto Components",
+    "industryId": 1,
+    "className": "select-child"
+  },
+  "industryId": 1,
+  "tags": [],
+  "additionalClientArangements": "None",
+  "background": "<p>Automobiles, machinary, Tools</p>",
+  "blacklistedCompanies": "",
+  "interviewTarget": "3",
+  "invoicingInstructions": "",
+  "projectManagerId": 1,
+  "segments": [
+    {
+      "name": "Heavy Machinary",
+      "numberOfExpert": "5",
+      "expertBrief": "We are working on a project for a client who is looking at {{projectName}}. In connection with this, our client is trying to gain a better understanding ofEntire details of machinary",
+      "screeningQuestions": []
+    }
+  ],
+  "projectStatusId": 1,
+  "projectRequiredResourcesId": 2,
+  "startDate": "2025-11-12"
+}

@@ -1,0 +1,20 @@
+{
+    "projectId": 0,
+    "deliverableAttach": "existing",
+    "deliverableId": 0,
+    "deliveredBy": 0,
+    "deliverable": {
+        "deliverableTypeId": 1
+    },
+    "deliveryDate": "",
+    "consultationDuration": 0,
+    "attachments": [],
+    "feeItems": [
+        {
+            "value": "",
+            "currencyId": 1,
+            "feeTypeId": 1
+        }
+    ],
+    "employees": []
+}

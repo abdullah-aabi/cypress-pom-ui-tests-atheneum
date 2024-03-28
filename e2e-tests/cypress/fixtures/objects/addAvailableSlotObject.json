@@ -1,0 +1,30 @@
+{
+    "availabilities":[
+     {
+    "type":"client",
+    "id": "",
+    "time":
+        {
+            "start": 1,
+            "end": 1
+        },
+    "raw":
+    {"group":[]
+    }
+    },
+    {
+    "type":"expert",
+    "id": "",
+    "time":
+        {"start": 1,
+            "end":1
+        },
+    "raw":{
+        "group":[]
+        }}
+    ],
+    "drafts":[],
+    "timeslots":[],
+    "eplId": 1 ,
+    "lockInterviewDuration":false
+}

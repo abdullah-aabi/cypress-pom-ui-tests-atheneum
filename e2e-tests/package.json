@@ -1,0 +1,63 @@
+{
+  "name": "e2e-tests",
+  "version": "1.0.0",
+  "description": "Atheneum platform e2e tests",
+  "prettier": "prettier-config-standard",
+  "main": "index.js",
+  "scripts": {
+    "cypress-open": "./node_modules/.bin/cypress open --e2e",
+    "cypress-open-env": "./node_modules/.bin/cypress open --env stage=$STAGE",
+    "cypress-run-regression": "./node_modules/.bin/cypress run --headless --env grepTags=regression --record --key 3485425c-1a47-4d5b-a135-f65799372658 --tag $CYPRESS_TAG",
+    "cypress-run-component": "./node_modules/.bin/cypress run --browser chrome --spec './cypress/e2e/$COMPONENT*/*Spec.js' --record --key 3485425c-1a47-4d5b-a135-f65799372658 --tag $CYPRESS_TAG",
+    "cypress-run-feature": "./node_modules/.bin/cypress run --browser chrome --spec './cypress/e2e/**/$FEATURE**Spec.js' --record --key 3485425c-1a47-4d5b-a135-f65799372658 --tag $CYPRESS_TAG",
+    "cypress-run-smoke": "npx cypress run --headless --env grepTags=smoke --record --key 3485425c-1a47-4d5b-a135-f65799372658 --tag $CYPRESS_TAG",
+    "cypress-run-mckinsey": "./node_modules/.bin/cypress run --browser chrome --env grepTags=mckinsey --record --key 3485425c-1a47-4d5b-a135-f65799372658 --tag $CYPRESS_TAG",
+    "cypress-run-single": "./node_modules/.bin/cypress run --browser chrome --env grepTags=single",
+    "cypress-merge-reports": "./node_modules/.bin/mochawesome-merge 'cypress/results/*.json' -o cypress/reports/cypress-report.json",
+    "create:html:report": "npm run cypress-merge-reports && marge --reportDir cypress/reports cypress/reports/cypress-report.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.1",
+    "axios": "^0.17.1",
+    "cross-env": "^7.0.3",
+    "cypress": "^10.10.0",
+    "cypress-audit": "^1.1.0",
+    "cypress-fail-fast": "^4.0.0",
+    "cypress-file-upload": "^5.0.7",
+    "cypress-grep": "^3.0.3",
+    "cypress-recurse": "^1.8.1",
+    "cypress-wait-until": "^1.7.2",
+    "dotenv": "^8.2.0",
+    "faker": "^3.0.0",
+    "imap-simple": "^5.1.0",
+    "lodash": "^4.13.1",
+    "mochawesome": "^6.2.2",
+    "mochawesome-merge": "^4.2.0",
+    "mochawesome-report-generator": "^5.2.0",
+    "moment": "~2.29.2",
+    "node-xlsx": "^0.21.0",
+    "uuid": "^8.3.1",
+    "uuidv4": "^6.2.5",
+    "yargs": "^16.2.0"
+  },
+  "lint-staged": {
+    "linters": {
+      "*.js": [
+        "eslint",
+        "git add"
+      ]
+    }
+  },
+  "standard": {
+    "parser": "babel-eslint"
+  },
+  "eslintConfig": {
+    "env": {
+      "browser": true,
+      "node": true
+    }
+  }
+}

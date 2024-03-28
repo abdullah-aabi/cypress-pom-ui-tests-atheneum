@@ -1,0 +1,312 @@
+[
+  {
+    "emailAddress": "test.admin.qa.automation@atheneum.ai",
+    "firstName": "Test",
+    "lastName": "Admin",
+    "password": "$2b$10$7rFLZv.TCFAfdNrZtkgD/emPFEImbtgnPxu9M4zC09U6ePtcetdbe",
+    "position": "Admin",
+    "features": [
+      "feat_plutus_prediction",
+      "hcp_reporting_additional_information"
+    ]
+  },
+  {
+    "emailAddress": "test.ops.accountmanager.qa.automation@atheneum.ai",
+    "firstName": "Test",
+    "lastName": "AccountManager",
+    "password": "$2b$10$OYDwb4y.1w6YjOAmbRom4O.AIfro6luAo0LoFoWdFA.j9fvoCCJb.",
+    "position": "Account Manager",
+    "features": [
+      "feat_plutus_prediction",
+      "hcp_reporting_additional_information"
+    ]
+  },
+  {
+    "emailAddress": "test.ops.associate.qa.automation@atheneum.ai",
+    "firstName": "Test",
+    "lastName": "Associate",
+    "password": "$2b$10$OYDwb4y.1w6YjOAmbRom4O.AIfro6luAo0LoFoWdFA.j9fvoCCJb.",
+    "position": "Associate"
+  },
+  {
+    "emailAddress": "test.dashboard.accountmanager.qa.automation@atheneum.ai",
+    "firstName": "Dashboard",
+    "lastName": "AccountManager",
+    "password": "$2b$10$OYDwb4y.1w6YjOAmbRom4O.AIfro6luAo0LoFoWdFA.j9fvoCCJb.",
+    "position": "Account Manager"
+  },
+  {
+    "emailAddress": "test.ops.teamlead.qa.automation@atheneum.ai",
+    "firstName": "Test",
+    "lastName": "TeamLeader",
+    "password": "$2b$10$OYDwb4y.1w6YjOAmbRom4O.AIfro6luAo0LoFoWdFA.j9fvoCCJb.",
+    "position": "Team Leader"
+  },
+  {
+    "emailAddress": "test.dashboard.teamlead.qa.automation@atheneum.ai",
+    "firstName": "Dashboard",
+    "lastName": "TeamLeader",
+    "password": "$2b$10$OYDwb4y.1w6YjOAmbRom4O.AIfro6luAo0LoFoWdFA.j9fvoCCJb.",
+    "position": "Team Leader"
+  },
+  {
+    "emailAddress": "test.ops.accounting.qa.automation@atheneum.ai",
+    "firstName": "Accounting",
+    "lastName": "Officer",
+    "password": "$2b$10$OYDwb4y.1w6YjOAmbRom4O.AIfro6luAo0LoFoWdFA.j9fvoCCJb.",
+    "position": "Accounting"
+  },
+  {
+    "emailAddress": "test.dashboard.associate.qa.automation@atheneum.ai",
+    "firstName": "Dashboard",
+    "lastName": "Associate",
+    "password": "$2b$10$OYDwb4y.1w6YjOAmbRom4O.AIfro6luAo0LoFoWdFA.j9fvoCCJb.",
+    "position": "Associate"
+  },
+  {
+    "emailAddress": "test.executive.user.qa.automation@atheneum.ai",
+    "firstName": "Test",
+    "lastName": "Executive",
+    "password": "$2b$10$OYDwb4y.1w6YjOAmbRom4O.AIfro6luAo0LoFoWdFA.j9fvoCCJb.",
+    "position": "Executive"
+  },
+  {
+    "emailAddress": "test.expert.relationshipmanager.qa.automation@atheneum.ai",
+    "firstName": "Test",
+    "lastName": "ExpertRelationshipManager",
+    "password": "$2b$10$OYDwb4y.1w6YjOAmbRom4O.AIfro6luAo0LoFoWdFA.j9fvoCCJb.",
+    "position": "ERM"
+  },
+  {
+    "emailAddress": "test.reset.qa.automation@atheneum.ai",
+    "firstName": "Test",
+    "lastName": "Reset",
+    "password": "$2b$10$OYDwb4y.1w6YjOAmbRom4O.AIfro6luAo0LoFoWdFA.j9fvoCCJb.",
+    "position": "ERM",
+    "resetPassword": true
+  },
+  {
+    "emailAddress": "david.adams@atheneum.ai",
+    "firstName": "David",
+    "lastName": "Adams",
+    "password": "$2b$10$NuoEbBfVU9vbK0rrBX4hQOdEqHEols9YFUrjIN.l4Ewg91qv4/LxW",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "shamim.mirzai@atheneum.ai",
+    "firstName": "Shamim",
+    "lastName": "Mirzai",
+    "password": "$2b$10$NuoEbBfVU9vbK0rrBX4hQOdEqHEols9YFUrjIN.l4Ewg91qv4/LxW",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "knb.vladimir.marovic@atheneum.ai",
+    "firstName": "Vladimir",
+    "lastName": "Marovic",
+    "password": "$2b$10$NuoEbBfVU9vbK0rrBX4hQOdEqHEols9YFUrjIN.l4Ewg91qv4/LxW",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "knb.patrik.novosel@atheneum.ai",
+    "firstName": "Patrik",
+    "lastName": "Novosel",
+    "password": "$2b$10$NuoEbBfVU9vbK0rrBX4hQOdEqHEols9YFUrjIN.l4Ewg91qv4/LxW",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "richard.miles@atheneum.ai",
+    "firstName": "Richard",
+    "lastName": "Miles",
+    "password": "$2b$10$Dvlocws/U4iLQyHoYxK8qu3SXp9/.I6EI3N0pkloRwTD0cNrCEDbC",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "andrius.laurinenas@atheneum.ai",
+    "firstName": "Andrius",
+    "lastName": "Laurinenas",
+    "password": "$2b$10$MoHSRP8OrNEOJH6qkZAlJ.WFILkcYQYnBfP3QsIjUi5F.p.3LuhlC",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "kavita.maheshwari@atheneum-partners.com",
+    "firstName": "Kavita",
+    "lastName": "Maheshwari",
+    "password": "$2b$10$NuoEbBfVU9vbK0rrBX4hQOdEqHEols9YFUrjIN.l4Ewg91qv4/LxW",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "daniel.kimani@atheneum.ai",
+    "firstName": "Daniel",
+    "lastName": "Kimani",
+    "password": "$2b$10$NuoEbBfVU9vbK0rrBX4hQOdEqHEols9YFUrjIN.l4Ewg91qv4/LxW",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "knb.stjepan.vrucina@atheneum.ai",
+    "firstName": "stjepan",
+    "lastName": "vrucina",
+    "password": "$2b$10$NuoEbBfVU9vbK0rrBX4hQOdEqHEols9YFUrjIN.l4Ewg91qv4/LxW",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "nina.udovychko@atheneum.ai",
+    "firstName": "Nina",
+    "lastName": "Udovychko",
+    "password": "$2b$10$NuoEbBfVU9vbK0rrBX4hQOdEqHEols9YFUrjIN.l4Ewg91qv4/LxW",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "michael.hancock@atheneum.ai",
+    "firstName": "Michael",
+    "lastName": "Hancock",
+    "password": "$2b$10$7ZHB9xxJjpotHghBpYFIOOATmb6xkj7lyO2CXnfGwjN.8dAoTp6Cy",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "mckinsey@clients.atheneum-app.com",
+    "firstName": "McKinsey",
+    "lastName": "Company",
+    "password": "$2b$10$pk4prqtqsWfCmgz7ZsxBmul9Ay58rNiGeXSBw5m/.8Qke0ypjzWFS",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "knb.inka.pelin@atheneum.ai",
+    "firstName": "Inka",
+    "lastName": "Pelin",
+    "password": "$2b$10$7ZHB9xxJjpotHghBpYFIOOATmb6xkj7lyO2CXnfGwjN.8dAoTp6Cy",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "ext.johann.fitschen@atheneum.ai",
+    "firstName": "johann",
+    "lastName": "fitschen",
+    "password": "$2b$10$NuoEbBfVU9vbK0rrBX4hQOdEqHEols9YFUrjIN.l4Ewg91qv4/LxW",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "adeola.ogunleye@atheneum.ai",
+    "firstName": "adeola",
+    "lastName": "ogunleye",
+    "password": "$2b$10$NuoEbBfVU9vbK0rrBX4hQOdEqHEols9YFUrjIN.l4Ewg91qv4/LxW",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "zachary.baum@atheneum.ai",
+    "firstName": "zachary",
+    "lastName": "baum",
+    "password": "$2b$10$NuoEbBfVU9vbK0rrBX4hQOdEqHEols9YFUrjIN.l4Ewg91qv4/LxW",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "angelica.crone@atheneum.ai",
+    "firstName": "angelica",
+    "lastName": "crone",
+    "password": "$2b$10$NuoEbBfVU9vbK0rrBX4hQOdEqHEols9YFUrjIN.l4Ewg91qv4/LxW",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "younis.asmad@atheneum.ai",
+    "firstName": "younis",
+    "lastName": "asmad",
+    "password": "$2b$10$NuoEbBfVU9vbK0rrBX4hQOdEqHEols9YFUrjIN.l4Ewg91qv4/LxW",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "adil.muddasser@atheneum.ai",
+    "firstName": "Adil",
+    "lastName": "Muddasser",
+    "password": "$2b$10$y.JPUzwSJj3E9lPlfEPl1eBs14E0ktNZIkbg.DhN5F2T8Gf5Yc/mS",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "test.migration1@atheneum.ai",
+    "firstName": "Test",
+    "lastName": "Migration1",
+    "password": "$2b$10$2QHD/Pqw/LTbI1JHyR0Qa.HGzlMyLj77rj5X8NhKttF0TstuPky2y",
+    "position": "Associate"
+  },
+  {
+    "emailAddress": "test.migration2@atheneum.ai",
+    "firstName": "Test",
+    "lastName": "Migration2",
+    "password": "$2b$10$7ZHB9xxJjpotHghBpYFIOOATmb6xkj7lyO2CXnfGwjN.8dAoTp6Cy",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "test.migration3@atheneum.ai",
+    "firstName": "Test",
+    "lastName": "Migration3",
+    "password": "$2b$10$7ZHB9xxJjpotHghBpYFIOOATmb6xkj7lyO2CXnfGwjN.8dAoTp6Cy",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "borna.smit@atheneum.ai",
+    "firstName": "Borna",
+    "lastName": "Šmit",
+    "password": "$2b$10$uzP5lr2Ldwf87rThGXZZ.ecZKowreDB4O4VZOUzgEmSqTks5U5Ixy",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "waqas.adil@atheneum-partners.com",
+    "firstName": "Waqas",
+    "lastName": "Adil",
+    "password": "$2b$10$NuoEbBfVU9vbK0rrBX4hQOdEqHEols9YFUrjIN.l4Ewg91qv4/LxW",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "arslan.sarwar@atheneum-partners.com",
+    "firstName": "Arslan",
+    "lastName": "Sarwar",
+    "password": "$2b$10$7ZHB9xxJjpotHghBpYFIOOATmb6xkj7lyO2CXnfGwjN.8dAoTp6Cy",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "adnan.siddiq@atheneum.ai",
+    "firstName": "Adnan",
+    "lastName": "Siddiq",
+    "password": "$2b$10$7ZHB9xxJjpotHghBpYFIOOATmb6xkj7lyO2CXnfGwjN.8dAoTp6Cy",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "michael.tamplen@atheneum.ai",
+    "firstName": "Michael",
+    "lastName": "Tamplen",
+    "password": "$2b$10$AOh9MW4zxDjD9QZtlnNcRe2hj.WVyLJpX1NmsUw7B9njmIfOTMs2i",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "alvaro.rodriguez@atheneum.ai",
+    "firstName": "Alvaro",
+    "lastName": "Rodriguez",
+    "password": "$2b$10$AOh9MW4zxDjD9QZtlnNcRe2hj.WVyLJpX1NmsUw7B9njmIfOTMs2i",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "david.koscinski@atheneum.ai",
+    "firstName": "David",
+    "lastName": "Koscinski",
+    "password": "$2b$10$7ZHB9xxJjpotHghBpYFIOOATmb6xkj7lyO2CXnfGwjN.8dAoTp6Cy",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "soufiene.windpassinger@atheneum.ai",
+    "firstName": "Soufiene",
+    "lastName": "Windpassinger",
+    "password": "$2b$10$7ZHB9xxJjpotHghBpYFIOOATmb6xkj7lyO2CXnfGwjN.8dAoTp6Cy",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "coenraad.viviers@atheneum.ai",
+    "firstName": "Coenraad",
+    "lastName": "Viviers",
+    "password": "$2b$10$7ZHB9xxJjpotHghBpYFIOOATmb6xkj7lyO2CXnfGwjN.8dAoTp6Cy",
+    "position": "Admin"
+  },
+  {
+    "emailAddress": "ethan.sterling@atheneum.ai",
+    "firstName": "Ethan",
+    "lastName": "Sterling",
+    "password": "$2b$10$7ZHB9xxJjpotHghBpYFIOOATmb6xkj7lyO2CXnfGwjN.8dAoTp6Cy",
+    "position": "Admin"
+  }
+]

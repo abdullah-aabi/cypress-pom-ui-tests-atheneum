@@ -1,0 +1,19 @@
+{
+    "teamName" : "QA_Automation",
+    "atheneumOffice" : "Berlin",
+    "accountManagerSearchText" : "Automation AccountManager",
+    "principalSearchText" : "Automation Principal",
+    "accountManagerName" : "Automation AccountManager",
+    "accountManagerPosition" : "Account Manager",
+    "associateSearchText" :"Automation",
+    "associateName" :"Automation Associate",
+    "associatePosition" : "Associate",
+    "addTeamLeadTitle" :"Assign employee",
+    "teamLeadSearchText" : "Automation",
+    "teamLeadName" : "Automation TeamLead",
+    "teamLeadPosition" :"Team Leader",
+    "successMessage" :"Success!",
+    "deleteTitle" : "Remove team",
+    "targetValue" : "100.00",
+    "principalPosition" :"Principal: "
+}

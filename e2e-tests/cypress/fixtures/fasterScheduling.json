@@ -1,0 +1,5 @@
+{
+    "headingTextForScheduling": "This window lets you Schedule by picking any slot or Schedule after adding availabilities (To add availability please go to the Availability window)",
+    "headingTextForAvailabilities": "This window only lets you add Availabilities (To schedule please go back to schedule window)",
+    "errorMessageForSchedulingBeforeCurrentTime" : "Error: Cannot schedule in the past!"
+}

@@ -1,0 +1,26 @@
+{
+    "subject": "",
+    "content": "",
+    "to": [
+        {
+            "name": "Accounting",
+            "email": "accounting@atheneum.ai"
+        },
+        {
+            "name": "Darren Smith",
+            "email": "seed.client.darren.smith@atheneum.ai"
+        }
+    ],
+    "cc": [
+        {
+            "name": "Test AccountManager",
+            "email": "test.ops.accountmanager.qa.automation@atheneum.ai"
+        },
+        {
+            "name": "Accounting Officer",
+            "email": "test.ops.accounting.qa.automation@atheneum.ai"
+        }
+    ],
+    "templateName": "send_invoice",
+    "files": []
+}

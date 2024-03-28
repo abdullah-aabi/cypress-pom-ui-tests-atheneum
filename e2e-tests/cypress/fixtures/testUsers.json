@@ -1,0 +1,90 @@
+{
+  "associate": {
+    "emailAddress": "test.ops.associate.qa.automation@atheneum.ai",
+    "firstName": "Test",
+    "lastName": "Associate"
+  },
+  "accountManager": {
+    "emailAddress": "test.ops.accountmanager.qa.automation@atheneum.ai",
+    "firstName": "Test",
+    "lastName": "AccountManager"
+  },
+  "teamLeader": {
+    "emailAddress": "test.ops.teamlead.qa.automation@atheneum.ai",
+    "firstName": "Test",
+    "lastName": "TeamLeader"
+  },
+  "accounting": {
+    "emailAddress": "test.ops.accounting.qa.automation@atheneum.ai",
+    "firstName": "Accounting",
+    "lastName": "Officer"
+  },
+  "dashboardAssociate": {
+    "emailAddress": "test.dashboard.associate.qa.automation@atheneum.ai",
+    "firstName": "Dashboard",
+    "lastName": "Associate",
+    "position": "Associate",
+    "target": 100
+  },
+  "dashboardAccountManager": {
+    "emailAddress": "test.dashboard.accountmanager.qa.automation@atheneum.ai",
+    "firstName": "Dashboard",
+    "lastName": "AccountManager",
+    "position": "Account Manager",
+    "target": 100
+  },
+  "dashboardTeamLeader": {
+    "emailAddress": "test.dashboard.teamlead.qa.automation@atheneum.ai",
+    "firstName": "Dashboard",
+    "lastName": "TeamLeader",
+    "position": "Team Leader",
+    "target": 100
+  },
+  "executive": {
+    "emailAddress": "test.executive.user.qa.automation@atheneum.ai",
+    "firstName": "Test",
+    "lastName": "Executive"
+  },
+  "erm": {
+    "emailAddress": "test.expert.relationshipmanager.qa.automation@atheneum.ai",
+    "firstName": "Test",
+    "lastName": "ExpertRelationshipManager",
+    "fullName": "Test ExpertRelationshipManager"
+  },
+  "expert": {
+    "emailAddress": "seed.expert.haraldt.herholzt@atheneum.ai",
+    "firstName": "Haraldt",
+    "lastName": "Herholzt"
+  },
+  "expertMckinsey": {
+    "emailAddress": "seed.expert.sherlock.holmes@atheneum.ai",
+    "firstName": "Sherlock",
+    "lastName": "Holmes"
+  },
+  "expertDNCLogin": {
+    "emailAddress": "seed.expert.marc.julien@atheneum.ai",
+    "firstName": "Marc",
+    "lastName": "Julien"
+  },
+  "avenComplianceAuditor": {
+    "emailAddress": "seed.client.darren.smith@atheneum.ai",
+    "firstName": "Darren",
+    "lastName": "Smith",
+    "fullName": "Darren Smith"
+  },
+  "kpmgComplianceAuditor": {
+    "emailAddress": "seed.client.john.wick@atheneum.ai",
+    "firstName": "John",
+    "lastName": "Wick"
+  },
+  "bainComplianceAuditor": {
+    "emailAddress": "seed.client.bruce.bain@atheneum.ai",
+    "firstName": "Bruce",
+    "lastName": "Bain"
+  },
+  "eyComplianceAuditor": {
+    "emailAddress": "seed.client.mark.young@atheneum.ai",
+    "firstName": "Mark",
+    "lastName": "Young"
+  }
+}

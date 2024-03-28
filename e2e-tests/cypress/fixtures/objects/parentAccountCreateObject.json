@@ -1,0 +1,11 @@
+{
+  "parentAccountName": "",
+  "parentAccountCode": "",
+  "accountTypeId": 1,
+  "hedgeFundRequired": false,
+  "invoicingCoverageId": 3,
+  "operationalGuidelines": "<p></p>",
+  "disclaimerComment": "<p></p>",
+  "caseCodeRequired": true,
+  "expertsDisclosed": true
+}

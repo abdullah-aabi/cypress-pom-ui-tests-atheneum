@@ -1,0 +1,27 @@
+{
+  "message_id": "example-message",
+  "public_id": "123ACD",
+  "type": "Strategy Project",
+  "name": "QAU1122334455",
+  "client_name": "McKinsey & Company",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ipsum leo, elementum vel turpis at, ullamcorper aliquet quam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris eget auctor dui. Nunc sit amet justo et tortor fringilla feugiat. Curabitur nisi orci, congue et sapien in, feugiat gravida sem. Sed pretium fringilla eleifend. Curabitur tincidunt et quam eget rhoncus. Curabitur eget tortor hendrerit tortor luctus elementum ac eget arcu. Donec sodales laoreet neque, in finibus arcu dapibus in. Vestibulum pharetra consequat ex sed tempus. In sollicitudin enim a pellentesque condimentum. Vivamus eget risus euismod, consequat dui nec, varius turpis.",
+  "charge_code": "123456",
+  "live": true,
+  "networks_count": 1,
+  "timezone": "CEST",
+  "project_lead_name": "QA Lead Name",
+  "project_lead_email": "lead@email.com",
+  "project_director_name": "QA Director Name",
+  "project_location": {
+    "address": "Iuliu Maniu, Bucharest",
+    "name": "McKinsey & Company Romania"
+  },
+  "project_director_email": "director@email.com",
+  "target_company": "Target Company",
+  "roles": "Procurement",
+  "geography": ["Croatia"],
+  "total_requested_number_of_calls": 20,
+  "deadline_date": "string",
+  "contact_phone": "string",
+  "client_id": "mckinsey-1"
+}

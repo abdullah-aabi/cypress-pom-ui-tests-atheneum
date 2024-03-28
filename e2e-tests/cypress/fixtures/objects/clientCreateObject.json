@@ -1,0 +1,38 @@
+{
+  "title": "Mr.",
+  "firstName": "",
+  "lastName": "",
+  "originalName": "",
+  "client": {
+    "position": "",
+    "account": {
+      "id": 1,
+      "companyName": "",
+      "parentAccountId": ""
+    },
+    "office": { "id": 1, "officeName": "", "address": "" },
+    "officeId": 1,
+    "accountId": 1,
+    "knowledgeManager": true,
+    "global": true,
+    "officeAddress": true,
+    "atheneumContact": { "id": 1, "fullName": "" },
+    "atheneumContactId": 1
+  },
+  "clientLinks": [],
+  "address": {
+    "phones": [{ "phoneTypeId": 2, "phoneNum": "+1221212" }],
+    "emails": [],
+    "address1": "",
+    "address2": "",
+    "city": "",
+    "postalCode": "",
+    "state": "",
+    "countryId": 1,
+    "timezoneId": 1
+  },
+  "country": "",
+  "email": "",
+  "kmSpecificAccounts": [{ "id": "" }],
+  "type": "All accounts"
+}

@@ -1,0 +1,13 @@
+{
+    "invoicePayments": [
+        {
+            "paidDate": "",
+            "amount": "",
+            "invoicePaymentStatusId": 1,
+            "invoicePaymentStatus": {
+                "id": 1,
+                "name": "Received"
+            }
+        }
+    ]
+}

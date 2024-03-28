@@ -1,0 +1,32 @@
+{
+    "clientContractParty": "",
+    "atheneumOfficeId": null,
+    "contractCoverageId": 3,
+    "accounts": [],
+    "projects": [
+      {
+        "id": ""
+      }
+    ],
+    "contractTypeId": 2,
+    "contractTypeDetailId": 2,
+    "startDate": "",
+    "endDate": "",
+    "rangeMin": null,
+    "rangeMax": null,
+    "feeOverchargeLimit": null,
+    "value": null,
+    "unlimited": null,
+    "marginPredictionInFeeValue": false,
+    "creditAmount": "1",
+    "creditValue": "10",
+    "currencyId": 1,
+    "invoicingInstructions": null,
+    "specialConditions": null,
+    "additionalComment": null,
+    "signed": false,
+    "calculatedTotal": 0,
+    "parentAccountId": "",
+    "clientContactId": null,
+    "employeeContactId": 2
+  }

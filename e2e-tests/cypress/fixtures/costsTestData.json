@@ -1,0 +1,15 @@
+{
+  "deliverableType": "ES - In-Person Interview",
+  "costType": "Expert - Travel cost",
+  "currencyType": "EUR",
+  "costValue": 300,
+  "newCostCurrency": "USD",
+  "newCostValue": 150,
+  "feeType": "Additional internal services",
+  "feeValue": 800,
+  "newFeeCurrency": "JPY",
+  "newFeeValue": 900,
+  "feeDeletedMessage": "Fee deleted successfully",
+  "successfulMessage": "succeeded",
+  "costTypeToExclude": "Expert - Referral Cost"
+}

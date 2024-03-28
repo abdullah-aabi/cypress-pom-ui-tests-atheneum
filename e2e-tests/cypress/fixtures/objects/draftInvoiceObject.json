@@ -1,0 +1,19 @@
+{
+    "invoiceTypeId": 1,
+    "invoicingEntityId": 1,
+    "atheneumOfficeId": 1,
+    "vat": "0",
+    "caseCode": "",
+    "comment": "",
+    "currencyId": 1,
+    "internalRemarks": "",
+    "startDate": null,
+    "endDate": null,
+    "isWriteOff": false,
+    "projectId": 1,
+    "fees": [
+        {
+            "id": 1
+        }
+    ]
+}
